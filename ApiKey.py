@@ -1,0 +1,1 @@
+openapi_key= "" #YOUR API KEY INSIDE THE DOUBLE QUOTES
