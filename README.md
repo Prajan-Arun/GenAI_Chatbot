@@ -36,4 +36,4 @@ Improve user interface: Enhance the design and functionality of the Streamlit ap
 Add more advanced features: Explore features like summarization, topic extraction, and sentiment analysis.
 
 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests. 
