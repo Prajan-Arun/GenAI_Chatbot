@@ -14,7 +14,7 @@ How to run:
 
 Clone the repository: git clone https://github.com/Prajan-Arun/GenAI_Chatbot.git
 Install dependencies: pip install -r requirements.txt
-Set up your OpenAI API key: Create a file named ApiKey.py and add your API key: openapi_key = "YOUR_ACTUAL_OPENAI_API_KEY" 
+Set up your OpenAI API key: Create a file named ApiKey.py and add your API key: openapi_key = "YOUR_ACTUAL_OPENAI_API_KEY"
 Run the Streamlit app: streamlit run Main.py
 
 How it works:
